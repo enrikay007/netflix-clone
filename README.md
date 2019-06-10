@@ -1,2 +1,2 @@
 # netflix-clone
-hobbyist project trying to clone netflix movie website
+developed netflix clone movie website
