@@ -1,2 +1,2 @@
 # netflix-clone
-developed netflix clone movie website
+developed simple netflix clone movie website
